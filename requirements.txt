@@ -1,3 +1,8 @@
+playwright
+easyocr
+opencv-python-headless
+
+
 DrissionPage
 opencv-python
 pytesseract

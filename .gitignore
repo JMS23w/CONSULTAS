@@ -1,8 +1,13 @@
-temp_captcha.png
-*.png
 
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+
+temp.png
+temp_captcha.png
 
 venv/
 env/
+
+.webstepper/
+.easyocr/
